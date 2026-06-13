@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://kumarangadi.io)
 <h1 align="center">Hi 👋, I'm Kumar Angadi</h1>
-<h3 align="center">AI & ML Engineering Student | Java & Spring Boot Developer | Gen AI Enthusiast</h3>
-<img allign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<h3 align="center">AI & ML Engineer| Java & Spring Boot Developer | Gen AI Enthusiast</h3>
+<img allign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" , </img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarangadi&label=Profile%20views&color=0e75b6&style=flat" alt="kumarangadi" /> </p>
